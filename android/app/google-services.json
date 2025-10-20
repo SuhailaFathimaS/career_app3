@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76631264819",
+    "project_id": "career-app-ssuhaila",
+    "storage_bucket": "career-app-ssuhaila.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76631264819:android:4c335b36d1f296221edd46",
+        "android_client_info": {
+          "package_name": "com.example.career_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiy3DPR6Dy3GRtMXlNQwxbvPC8A1xxJTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
